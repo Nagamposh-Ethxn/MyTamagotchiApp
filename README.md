@@ -2,6 +2,7 @@ The purpose of my app is to mimic a virtual pet. The app allows you to engage wi
 The app may be used for educational purposes by toddlers , even adults as well who want to see how the app functions.
 The design of my app was kept really simple to ensure that whole whom are engaing with it can nagivate through the app easily without having any issues.
 The app consists of 2 screen, screen 1 is where ou will be welcomed and screen 2 is where you can engage with the app.
+There is 1 button on screen one that allows you to move to the second page, on the second page there are 3 buttons all of which  you can use to interact with the pet. 
 For submission , I ahd used GitHub to submit my code, theprocess was not complicated, but there were alot of steps involved.
 Using GitHub allowed me to create, store, change, merge and collaborate with my code
 Now that I have submitted my code through GitHub my lecturer can view it, make edits or changes.
